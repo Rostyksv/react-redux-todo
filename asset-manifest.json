@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/todo-react-redux/static/css/main.93b0ce84.chunk.css",
-    "main.js": "/todo-react-redux/static/js/main.8fe58812.chunk.js",
-    "main.js.map": "/todo-react-redux/static/js/main.8fe58812.chunk.js.map",
-    "runtime-main.js": "/todo-react-redux/static/js/runtime-main.135b1d49.js",
-    "runtime-main.js.map": "/todo-react-redux/static/js/runtime-main.135b1d49.js.map",
-    "static/css/2.325dfaf0.chunk.css": "/todo-react-redux/static/css/2.325dfaf0.chunk.css",
-    "static/js/2.399774ee.chunk.js": "/todo-react-redux/static/js/2.399774ee.chunk.js",
-    "static/js/2.399774ee.chunk.js.map": "/todo-react-redux/static/js/2.399774ee.chunk.js.map",
-    "static/js/3.85092abf.chunk.js": "/todo-react-redux/static/js/3.85092abf.chunk.js",
-    "static/js/3.85092abf.chunk.js.map": "/todo-react-redux/static/js/3.85092abf.chunk.js.map",
-    "index.html": "/todo-react-redux/index.html",
-    "static/css/2.325dfaf0.chunk.css.map": "/todo-react-redux/static/css/2.325dfaf0.chunk.css.map",
-    "static/css/main.93b0ce84.chunk.css.map": "/todo-react-redux/static/css/main.93b0ce84.chunk.css.map",
-    "static/js/2.399774ee.chunk.js.LICENSE.txt": "/todo-react-redux/static/js/2.399774ee.chunk.js.LICENSE.txt"
+    "main.css": "/Rostyksv/react-redux-todo/static/css/main.7ddf7e07.chunk.css",
+    "main.js": "/Rostyksv/react-redux-todo/static/js/main.266a1b8f.chunk.js",
+    "main.js.map": "/Rostyksv/react-redux-todo/static/js/main.266a1b8f.chunk.js.map",
+    "runtime-main.js": "/Rostyksv/react-redux-todo/static/js/runtime-main.68d9bdb5.js",
+    "runtime-main.js.map": "/Rostyksv/react-redux-todo/static/js/runtime-main.68d9bdb5.js.map",
+    "static/css/2.150d169a.chunk.css": "/Rostyksv/react-redux-todo/static/css/2.150d169a.chunk.css",
+    "static/js/2.388cfcde.chunk.js": "/Rostyksv/react-redux-todo/static/js/2.388cfcde.chunk.js",
+    "static/js/2.388cfcde.chunk.js.map": "/Rostyksv/react-redux-todo/static/js/2.388cfcde.chunk.js.map",
+    "static/js/3.13feb362.chunk.js": "/Rostyksv/react-redux-todo/static/js/3.13feb362.chunk.js",
+    "static/js/3.13feb362.chunk.js.map": "/Rostyksv/react-redux-todo/static/js/3.13feb362.chunk.js.map",
+    "index.html": "/Rostyksv/react-redux-todo/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Rostyksv/react-redux-todo/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7ddf7e07.chunk.css.map": "/Rostyksv/react-redux-todo/static/css/main.7ddf7e07.chunk.css.map",
+    "static/js/2.388cfcde.chunk.js.LICENSE.txt": "/Rostyksv/react-redux-todo/static/js/2.388cfcde.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.135b1d49.js",
-    "static/css/2.325dfaf0.chunk.css",
-    "static/js/2.399774ee.chunk.js",
-    "static/css/main.93b0ce84.chunk.css",
-    "static/js/main.8fe58812.chunk.js"
+    "static/js/runtime-main.68d9bdb5.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.388cfcde.chunk.js",
+    "static/css/main.7ddf7e07.chunk.css",
+    "static/js/main.266a1b8f.chunk.js"
   ]
 }
