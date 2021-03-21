@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bgcolor{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.darkTheme{
+  background-color: black;
+  color: white;
+}
+
+.whiteTheme{
+  background-color: white;
+  color: black
+}
+
+.Todo{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.todo-check{
+  position: absolute;
+  left: 2.5rem;
+}
+.todo-check-done{
+  text-decoration: line-through;
+  font-size: smaller;
+  font-weight: 100;
+}
+.clear-btn{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+.clear-btn button{
+  display: inline-block;
+  width: 100%;
+}
+
+.alert-show{
+  display: flex;
+  justify-content: space-between;
+}
+.alert-hidden{
+  display: none;
+}
+
+.Switcher input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 80px;
+	height: 40px;
+	background: #000000;
+	display: block;
+	border-radius: 100px;
+	position: relative;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	width: 30px;
+	height: 30px;
+	background: #fff;
+	border-radius: 90px;
+	transition: 0.3s;
+}
+
+input:checked + label {
+  background: rgb(134, 134, 134);
+}
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+
+label:active:after {
+	width: 50%;
+}
+
+.Switcher {
+  float: right;
+}
